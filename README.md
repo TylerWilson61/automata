@@ -1,2 +1,2 @@
 # automata
-game of life cellular automata in c. rip John Conway
+game of life cellular automata in C. Essentially takes a txt file with the correct format and then outputs the result based on John Conway's game of life. It takes a look at the rows above and below to see if neighbor cells are alive or dead and reacts based on this information. This helped me unterstand memory allocation better in C, because I had to think about looking at data not in our address space. Also always good to work on fundementals, which this was good for.  rip John Conway
